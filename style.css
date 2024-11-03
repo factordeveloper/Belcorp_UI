@@ -68,6 +68,10 @@
             transform: scale(1.05);
         }
 
+        .logo{
+            width: 100px;
+        }
+
        
 
         @media (max-width: 768px) {
